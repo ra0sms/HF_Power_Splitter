@@ -6,7 +6,15 @@ You can use two HF antennas or two power amplifiers for splitting your signal.
 
 Based on FT140-61 Amidon core.
 
-More information - 
+More information - https://ra0sms.com/hf-power-splitter/
+
+-------------------------------------------------------
+
+Power supply: 12-13.8V
+
+Consumption current: 300mA
+
+SWR: <1.5 (1-30MHz)
 
 ![](DipTrace/hf_splitter_sch.jpg)
 
